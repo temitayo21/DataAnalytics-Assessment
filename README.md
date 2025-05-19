@@ -182,6 +182,3 @@ Challenges
 Conclusion
 
 This assessment was a great opportunity to demonstrate my SQL skills in realistic business scenarios, such as customer segmentation, inactivity monitoring, and value forecasting. The main themes were **data aggregation, time-based calculations, joins, CASE expressions**, and ensuring monetary precision.
-
-Let me know if you'd like the queries adapted to older MySQL versions (without CTEs).
-
